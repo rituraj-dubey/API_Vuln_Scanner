@@ -2,7 +2,7 @@
 **Author :** Rituraj Dubey
 * * *
 
-                                  How to Use the Tool
+                                        How to Use the Tool
 To use the API Vulnerability Testing Tool, follow these steps:
 1. Setup Proxy: 
 
